@@ -15,4 +15,4 @@ The project is license under the MIT License.
 
 ## About Me
 
-Hi there! I'm **Muhammad Kamran Syed**, I am an IT professional and passionate AI, ML & Data Engineer. I've dual masters degrees in Computer Science from University of Karachi and Machine Learning and Data Science from University of Arizona.
+Hi there! I'm **Muhammad Kamran Syed**, I am an IT professional and passionate AI, ML & Data Engineer. I've dual masters degrees in Computer Science from University of Karachi and Machine Learning and Data Science from University of Arizona and I've 18+ years of experience delivery Large Scale IT Solutions to Fintech, Govt and public sectors.
