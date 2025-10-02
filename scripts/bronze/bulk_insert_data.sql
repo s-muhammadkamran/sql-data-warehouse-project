@@ -1,5 +1,5 @@
 /*
-Modify the location of source files as per your environment
+Modify the location of source files as per your environment and OS style
 */
 USE DataWareHouse;
 GO
